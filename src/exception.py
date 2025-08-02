@@ -1,4 +1,7 @@
 import sys
+import logging
+from src.logger import logging 
+
 
 def error_message_details(error, error_detail: sys):
     # on which file and line error has occoured will be stored in the below variable

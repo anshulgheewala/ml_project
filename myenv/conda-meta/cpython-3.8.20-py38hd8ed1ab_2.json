@@ -1,0 +1,34 @@
+{
+  "build": "py38hd8ed1ab_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python 3.8.20.*",
+    "python_abi * *_cp38"
+  ],
+  "extracted_package_dir": "c:\\Users\\anshu\\anaconda3\\pkgs\\cpython-3.8.20-py38hd8ed1ab_2",
+  "files": [],
+  "fn": "cpython-3.8.20-py38hd8ed1ab_2.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "c:\\Users\\anshu\\anaconda3\\pkgs\\cpython-3.8.20-py38hd8ed1ab_2",
+    "type": 1
+  },
+  "md5": "d84581c0ef3fe37ad90399009ad3bf94",
+  "name": "cpython",
+  "noarch": "generic",
+  "package_tarball_full_path": "c:\\Users\\anshu\\anaconda3\\pkgs\\cpython-3.8.20-py38hd8ed1ab_2.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4ca2a3c4b1a706d41101a6eac8ca3c7057496014f183d497e9907019df5a8202",
+  "size": 49643,
+  "subdir": "noarch",
+  "timestamp": 1727718652000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.8.20-py38hd8ed1ab_2.conda",
+  "version": "3.8.20"
+}
